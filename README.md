@@ -1,7 +1,6 @@
 ## Python for Data Science
-Author: Cognitive Class AI
 
-Purpose: Mentee project showcasing the hands-on lab of "Python for Data Science" insights from Cognitive Class, developed under IBM Advanced AI at Infinite Learning
+Purpose: This project seeks to analyze online food production by leveraging a dataset and code obtained from Kaggle. The provided data encompasses variables such as customer age, gender, marital status, occupation, monthly income, educational qualification, family size, customer geographic location (latitude, longitude, pin code), as well as order details such as current order status (pending, confirmed, delivered) and customer feedback.
 ### :mage_woman: Mentee Info
 Name: Ruth Johana Hutagalung
 
